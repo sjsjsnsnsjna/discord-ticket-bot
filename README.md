@@ -14,7 +14,6 @@ Replit panelinde **Secrets** bölümüne aşağıdaki değerleri ekle:
 | `CLIENT_ID` | Bot'un uygulama ID'si (Discord Developer Portal > General Information) |
 | `GUILD_ID` | Botun ekleneceği sunucunun ID'si (Sunucuya sağ tıkla > ID Kopyala) |
 | `OWNER_ID` | Sunucu sahibinin Discord kullanıcı ID'si |
-| `TICKET_CATEGORY_ID` | Ticket kanallarının açılacağı kategori ID'si |
 | `STAFF_ROLE_ID` | Destek ekibinin rolünün ID'si |
 | `LOG_CHANNEL_ID` | Transcript ve log mesajlarının gönderileceği kanal ID'si |
 
